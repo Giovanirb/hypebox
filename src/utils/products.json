@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Tênis",
+    "image": "",
+    "quantity": "3",
+    "category": "Esportiva"
+  },
+  {
+    "id": "2",
+    "name": "Camiseta",
+    "image": "",
+    "quantity": "5",
+    "category": "Esportiva"
+  },
+  {
+    "id": "3",
+    "name": "Bermuda",
+    "image": "",
+    "quantity": "7",
+    "category": "Esportiva"
+  },
+  {
+    "id": "4",
+    "name": "Meia",
+    "image": "",
+    "quantity": "4",
+    "category": "Esportiva"
+  },
+  {
+    "id": "5",
+    "name": "Boné",
+    "image": "",
+    "quantity": "7",
+    "category": "Acessório"
+  }
+]
